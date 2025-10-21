@@ -1,16 +1,18 @@
-# login_signup
+📝 Description
 
-A new Flutter project.
+A clean and responsive frontend design for a login and signup interface.
+This project focuses purely on the UI/UX aspect — no authentication or backend connection — providing a solid visual foundation for future integration.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+Modern and minimal design for login and signup screens
 
-A few resources to get you started if this is your first Flutter project:
+Fully responsive layout for different screen sizes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Well-structured and easily customizable code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Designed for easy integration with backend services later
+
+🎯 Goal
+
+To deliver an elegant and reusable frontend template for user login and signup flows, ideal for developers who want to integrate their own backend authentication system.
